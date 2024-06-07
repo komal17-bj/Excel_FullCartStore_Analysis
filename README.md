@@ -1,3 +1,10 @@
+EXCEL PROJECT: FULL CART STORE DATA ANALYSIS
+--------------------------------------------
+
+OBJECTIVE:
+Full cart store wants to create an annual sales report for the year 2022 so that they can understand their customers and grow more sales in 2023.
+
+
 Questions:
 1. Which month got the highest sale and orders?
 2. Who purchased more, Men or Women?
